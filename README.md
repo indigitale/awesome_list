@@ -7,6 +7,13 @@ https://github.com/danxfisher/MeetEasier
 https://practical365.com/meeteasier-helps-users-find-available-meeting-rooms/?sfw=pass1616419586
 https://github.com/janar153/node-wall-calendar
 https://stackoverflow.com/questions/11631367/speeding-up-group-by-sum-and-avg-queries
+https://golb.hplar.ch/2018/01/Self-host-Polyfill-io.html
+https://github.com/php-opencv/php-opencv-examples
+https://github.com/ashar367/Vehicle-detection-using-deep-learning-with-Tensorflow-and-Python
+https://docs.opencv.org/4.x/dd/d43/tutorial_py_video_display.html
+https://techvidvan.com/tutorials/opencv-vehicle-detection-classification-counting/
+https://www.computervision.zone/projects/4/
+https://github.com/php-mqtt/client/tree/0.3
 
 YII2
 https://github.com/kekaadrenalin/yii2-imap
